@@ -115,3 +115,7 @@ The dataset provides detailed information about crime incidents, including geogr
 7. **Best Model:**
    - The **Gradient Boosting** model achieved the best performance with an accuracy of **86.98%.**
 ---
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software for both personal and commercial purposes, provided the original source is credited.
